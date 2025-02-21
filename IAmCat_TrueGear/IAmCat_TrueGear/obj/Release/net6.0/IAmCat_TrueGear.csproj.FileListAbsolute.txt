@@ -1,0 +1,15 @@
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\bin\Release\net6.0\IAmCat_TrueGear.deps.json
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\bin\Release\net6.0\IAmCat_TrueGear.dll
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\bin\Release\net6.0\IAmCat_TrueGear.pdb
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\bin\Release\net6.0\TrueGearSDK.dll
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\IAmCat_TrueGear.csproj.AssemblyReference.cache
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\MyPluginInfo.cs
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\IAmCat_TrueGear.GeneratedMSBuildEditorConfig.editorconfig
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\IAmCat_TrueGear.AssemblyInfoInputs.cache
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\IAmCat_TrueGear.AssemblyInfo.cs
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\IAmCat_TrueGear.csproj.CoreCompileInputs.cache
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\IAmCat_T.822F781E.Up2Date
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\IAmCat_TrueGear.dll
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\refint\IAmCat_TrueGear.dll
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\IAmCat_TrueGear.pdb
+E:\_ModProject\IAmCat\IAmCat_TrueGear\IAmCat_TrueGear\obj\Release\net6.0\ref\IAmCat_TrueGear.dll
